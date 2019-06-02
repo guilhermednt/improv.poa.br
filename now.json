@@ -3,7 +3,7 @@
     "alias": "improv.poa.br",
     "builds": [
         { "src": "index.html", "use": "@now/static"},
-        { "src": "logo.png", "use": "@now/static"},
+        { "src": "logo.png", "use": "@now/static"}
     ],
     "regions": ["cdg"]
 }
